@@ -138,13 +138,13 @@ body {
   width: 226px;
 }
 
-.delete_image {
+.delete-image {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.delete_image:hover {
+.delete-image:hover {
   transform: rotateZ(0);
 }
 
